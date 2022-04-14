@@ -20,6 +20,7 @@
     "shortid": "^2.2.16"
   },
   "devDependencies": {
+    "@netlify/plugin-nextjs": "^4.3.2",
     "autoprefixer": "^10.4.0",
     "eslint": "7.32.0",
     "eslint-config-next": "11.1.0",
